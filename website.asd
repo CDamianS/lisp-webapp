@@ -1,9 +1,9 @@
 ;;;; website.asd
 
 (asdf:defsystem #:website
-  :description "Describe website here"
-  :author "Your Name <your.name@example.com>"
-  :license  "Specify license here"
+  :description "Hunchentoot test with common lisp"
+  :author "Damian Suarez <DamianS78@proton.com>"
+  :license  "Apache License 2.0"
   :version "0.0.1"
   :serial t
   :components ((:file "package")
